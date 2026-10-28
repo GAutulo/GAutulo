@@ -26,8 +26,14 @@ Desenvolvedor front-end na [Nova Studio](https://github.com/novastudio-br), onde
 #### 📊 Estatísticas
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GAutulo&show_icons=true&include_all_commits=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://streak-stats.demolab.com?user=GAutulo&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GAutulo&show_icons=true&hide_border=true&locale=pt-br&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=GAutulo&show_icons=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=GAutulo&hide_border=true&locale=pt_BR&theme=github-dark-blue" />
+    <img height="165" src="https://streak-stats.demolab.com?user=GAutulo&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+  </picture>
 </p>
 
 #### 📫 Contato
