@@ -21,7 +21,7 @@ Desenvolvedor front-end na [Nova Studio](https://github.com/novastudio-br), onde
 | Projeto | O que é | Meu papel |
 |---|---|---|
 | **FlowRecon** *(privado)* | Conciliação financeira multi-tenant e multicanal para e-commerce, com módulo fiscal (NF-e) | Front-end: telas, design system, responsivo e revisão de PRs |
-| **Autoline** *(privado)* | Automação do desenvolvimento de embalagens de papelão ondulado, integrada ao CorelDRAW | Desenvolvimento e interface desktop (Python + PySide6) |
+| [**Autoline**](https://github.com/GAutulo/Autoline) | Automação do desenvolvimento de embalagens de papelão ondulado, integrada ao CorelDRAW | Desenvolvimento e interface desktop (Python + PySide6) |
 
 #### 📊 Estatísticas
 
